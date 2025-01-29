@@ -29,15 +29,17 @@ To conclude this point, as you can see, the framework shares common services, mi
 ### 3. Where to start?
 #### 1.In a new solution (or an existing one), create a new “ASP.NET Core Web API” project.
 
-![](assets/001.png)
+<img src="assets/001.png" style="width:400px" alt="img"/>
 
 #### 2.In the project's “Packages” folder, manage the NuGet packages and install these two dependencies:
     - **Microsoft.EntityFrameworkCore.SqlServer**
     - **Microsoft.EntityFrameworkCore.Tools**
 
-![](assets/004.png)
+<img src="assets/002.png" style="width:400px" alt="img"/>
+<img src="assets/003.png" style="width:400px" alt="img"/>
+<img src="assets/004.png" style="width:400px" alt="img"/>
 ---
-![](assets/005.png)
+<img src="assets/005.png" style="width:400px" alt="img"/>
 
 
 - **Microsoft.EntityFrameworkCore.SqlServer**:
