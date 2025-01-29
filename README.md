@@ -30,10 +30,6 @@ To conclude this point, as you can see, the framework shares common services, mi
 #### 1.In a new solution (or an existing one), create a new “ASP.NET Core Web API” project.
 
 ![](assets/001.png)
----
-![](assets/002.png)
----
-![](assets/003.png)
 
 #### 2.In the project's “Packages” folder, manage the NuGet packages and install these two dependencies:
     - **Microsoft.EntityFrameworkCore.SqlServer**
@@ -42,8 +38,7 @@ To conclude this point, as you can see, the framework shares common services, mi
 ![](assets/004.png)
 ---
 ![](assets/005.png)
----
-![](assets/006.png)
+
 
 - **Microsoft.EntityFrameworkCore.SqlServer**:
 This is a provider package for Entity Framework Core (EF Core) that enables your application to interact with Microsoft SQL Server databases. It provides the necessary database-specific functionality and optimizations, allowing EF Core to generate SQL queries tailored for SQL Server.
