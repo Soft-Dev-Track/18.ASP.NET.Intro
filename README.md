@@ -27,18 +27,22 @@ However, some of you may want to go into sites creation (with Razor Pages) or mo
 To conclude this point, as you can see, the framework shares common services, middleware and extensions. 
 
 ### 3. Where to start?
-- 1.In a new solution (or an existing one), create a new “ASP.NET Core Web API” project.
+#### 1.In a new solution (or an existing one), create a new “ASP.NET Core Web API” project.
 
 ![](assets/001.png)
+---
 ![](assets/002.png)
+---
 ![](assets/003.png)
 
-- 2.2. In the project's “Packages” folder, manage the NuGet packages and install these two dependencies:
+#### 2.In the project's “Packages” folder, manage the NuGet packages and install these two dependencies:
     - **Microsoft.EntityFrameworkCore.SqlServer**
     - **Microsoft.EntityFrameworkCore.Tools**
 
 ![](assets/004.png)
+---
 ![](assets/005.png)
+---
 ![](assets/006.png)
 
 - **Microsoft.EntityFrameworkCore.SqlServer**:
